@@ -4,7 +4,9 @@ Este plugin do WhatsApp para temas WordPress permite uma comunicação fácil at
 
 ## Demonstração em Vídeo
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/8090d533d57743d885dd9bdf105c3412?sid=5998d6f0-be02-4ddf-8ee1-90e2d42e6fd7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[1º Simulado TJ CE – Oficial de Justiça- Pós-Edital | Estratégia Educacional - 30 April 2024 - Watch Video](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412)
+
+[![Demonstração em Vídeo](https://cdn.loom.com/sessions/thumbnails/8090d533d57743d885dd9bdf105c3412-with-play.gif)](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412)
 
 ## Funcionalidades Principais:
 
