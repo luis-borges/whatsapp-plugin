@@ -2,6 +2,10 @@
 
 Este plugin do WhatsApp para temas WordPress permite uma comunicação fácil através de aplicativos de mensagens populares diretamente do seu site. Integrando este módulo, você pode adicionar um botão flutuante que permanece visível na parte inferior da tela enquanto os usuários rolam, garantindo fácil acesso às opções de contato.
 
+## Demonstração em Vídeo
+
+[Assista a demonstração em vídeo](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412?sid=41c45107-d81f-4ce6-9a3b-248e0cb41ed9)
+
 ## Funcionalidades Principais:
 
 - **Call to Action Personalizável**: Defina uma mensagem de call to action personalizada que aparecerá ao lado do botão, incentivando os usuários a iniciar uma conversa.
