@@ -4,7 +4,7 @@ Este plugin do WhatsApp para temas WordPress permite uma comunicação fácil at
 
 ## Demonstração em Vídeo
 
-[1º Simulado TJ CE – Oficial de Justiça- Pós-Edital | Estratégia Educacional - 30 April 2024 - Watch Video](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412)
+[LP Insert WhatsApp Plugin - Watch Video](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412)
 
 [![Demonstração em Vídeo](https://cdn.loom.com/sessions/thumbnails/8090d533d57743d885dd9bdf105c3412-with-play.gif)](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412)
 
