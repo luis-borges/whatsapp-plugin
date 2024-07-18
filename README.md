@@ -1,6 +1,6 @@
-# WhatsApp Plugin for WordPress Themes
+# WhatsApp Plugin for WordPress Divi Theme
 
-Este plugin do WhatsApp para temas WordPress permite uma comunicação fácil através de aplicativos de mensagens populares diretamente do seu site. Integrando este módulo, você pode adicionar um botão flutuante que permanece visível na parte inferior da tela enquanto os usuários rolam, garantindo fácil acesso às opções de contato.
+Este plugin do WhatsApp para ser usado no Divi Theme WordPress permite uma comunicação fácil através de aplicativos de mensagens populares diretamente do seu site. Integrando este módulo, você pode adicionar um botão flutuante que permanece visível na parte inferior da tela enquanto os usuários rolam, garantindo fácil acesso às opções de contato.
 
 ## Demonstração em Vídeo
 
