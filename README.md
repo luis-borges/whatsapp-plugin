@@ -19,3 +19,6 @@ Este plugin é projetado para aumentar o engajamento dos usuários e fornecer um
 3. **Adicione ao Seu Site**: Insira o módulo em seu tema e o botão flutuante aparecerá automaticamente no rodapé do seu site.
 
 Aprimore a interatividade do seu site e facilite o contato dos visitantes com este versátil plugin do WhatsApp.
+
+## Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
