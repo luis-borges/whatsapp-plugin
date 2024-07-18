@@ -4,7 +4,7 @@ Este plugin do WhatsApp para temas WordPress permite uma comunicação fácil at
 
 ## Demonstração em Vídeo
 
-[Assista a demonstração em vídeo](https://www.loom.com/share/8090d533d57743d885dd9bdf105c3412?sid=41c45107-d81f-4ce6-9a3b-248e0cb41ed9)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/8090d533d57743d885dd9bdf105c3412?sid=5998d6f0-be02-4ddf-8ee1-90e2d42e6fd7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Funcionalidades Principais:
 
